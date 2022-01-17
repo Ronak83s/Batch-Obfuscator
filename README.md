@@ -1,1 +1,3 @@
-# Batch-Obfuscator
+## Example
+
+```obfuscator.cmd YourBatName.bat```
